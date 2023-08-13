@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-flutter_local_notifications">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pushnotification/build/flutter_local_notifications/intermediates/merged_java_res/debug/feature-flutter_local_notifications.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-app_settings">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pushnotification/build/app_settings/intermediates/merged_java_res/debug/feature-app_settings.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
